@@ -1,0 +1,37 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="gradFolha" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#1b5e20;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#69f0ae;stop-opacity:1" />
+        </linearGradient>
+        <filter id="glowIcon">
+            <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    
+    <!-- Fundo circular -->
+    <circle cx="25" cy="25" r="24" fill="linear-gradient(135deg, #1b5e20, #4caf50)"/>
+    <circle cx="25" cy="25" r="24" fill="url(#gradFolha)"/>
+    
+    <!-- Folha -->
+    <path d="M 25 10 
+             C 25 10, 18 18, 18 28 
+             C 18 38, 25 44, 25 44 
+             C 25 44, 32 38, 32 28 
+             C 32 18, 25 10, 25 10 Z" 
+          fill="#fff" filter="url(#glowIcon)"/>
+    
+    <!-- Veia -->
+    <path d="M 25 14 L 25 40" stroke="#1b5e20" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 25 22 L 21 26" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M 25 28 L 29 24" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M 25 34 L 21 38" stroke="#1b5e20" stroke-width="1.5" stroke-linecap="round"/>
+    
+    <!-- Pontos digitais -->
+    <circle cx="25" cy="14" r="2" fill="#69f0ae"/>
+    <circle cx="25" cy="40" r="2" fill="#69f0ae"/>
+</svg>
