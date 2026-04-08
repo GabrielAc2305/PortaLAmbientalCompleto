@@ -45,38 +45,42 @@ Permitir interação entre usuários e o sistema
 
 -Servidor local (XAMPP/WAMP)
 
-## inico:
+## 🌎inico:
 <img width="1366" height="590" alt="INICOPORTAL" src="https://github.com/user-attachments/assets/8f8f9929-f201-4e1d-bedd-0a2ecd9c258e" />
 <img width="1366" height="635" alt="inico2" src="https://github.com/user-attachments/assets/6e41a439-c855-4aff-9da0-db7a5fed7421" />
 <img wid<img width="1364" height="354" alt="inicio4" src="https://github.com/user-attachments/assets/b44ef2e0-538f-4537-8fdd-d3bf00e6db0a" />
 
-##  QUEM SOMOS:
+##  🌎QUEM SOMOS:
 <img width="1366" height="644" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/d6c535ed-6069-4559-90d4-d66046e78716" />
 
 ##  CONTATO:
 <img width="1366" height="634" alt="CONTATO" src="https://github.com/user-attachments/assets/b1043299-9f74-4d64-ab5d-f374de8aa0eb" />
 
-## PERFIL:
+## 🌎PERFIL:
 <img width="1351" height="637" alt="PERFIL" src="https://github.com/user-attachments/assets/6d3a0035-4d30-424d-91cd-82a4d087dd9b" />
 
-## MINHAS NOTICIAS:(SO APARECE COM O REPORTER OU ADM)
+## 🌎MINHAS NOTICIAS:(SO APARECE COM O REPORTER OU ADM)
 <img width="1355" height="638" alt="MINHAS" src="https://github.com/user-attachments/assets/04a45a57-b3a8-4f37-934b-2dca497b62ae" />
 
-## PUBLICAR:(SO APARECE COM O REPORTER OU ADM)
+## 🌎PUBLICAR:(SO APARECE COM O REPORTER OU ADM)
 <img width="1344" height="649" alt="PUBLICAR" src="https://github.com/user-attachments/assets/02eef46f-4006-49d5-8272-a8cf2f1bab9b" />
 
-## PAINEL DO ADM:
+## 🌎PAINEL DO ADM:
 <img width="1353" height="642" alt="PAINELADM" src="https://github.com/user-attachments/assets/da951429-edfb-4075-ba7d-c4d2d3df0496" />
 <img width="1366" height="638" alt="PAINELADM2" src="https://github.com/user-attachments/assets/fcb7f71d-21c0-493d-ac77-8dbc4f9036fb" />
 
-## GERENCIAR USUARIOS:
+## 🌎GERENCIAR USUARIOS:
 <img width="1344" height="642" alt="USUARIOS" src="https://github.com/user-attachments/assets/14579c4f-c457-411e-a1d1-1b255564f51f" />
 
-## GERENCIAR NOTICIAS:
+## 🌎GERENCIAR NOTICIAS:
 <img width="1348" height="629" alt="NOTICIAS" src="https://github.com/user-attachments/assets/157f2df6-1a82-4279-8aae-c0918b0ac627" />
 
-## LOGIN
+## 🌎LOGIN
 
 <img width="1357" height="649" alt="LOGIN" src="https://github.com/user-attachments/assets/622ef49d-251f-4712-863f-257cb6691ad5" />
+
+## 🗂️Estrutura do projeto
+
+<img width="283" height="584" alt="CODIGOS" src="https://github.com/user-attachments/assets/5708f539-a926-4749-8582-f4b2386f9612" />
 
 ## AUTOR:GABRIEL ACCADROLLI FARIAS.
