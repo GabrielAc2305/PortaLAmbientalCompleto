@@ -79,6 +79,10 @@ Permitir interação entre usuários e o sistema
 
 <img width="1357" height="649" alt="LOGIN" src="https://github.com/user-attachments/assets/622ef49d-251f-4712-863f-257cb6691ad5" />
 
+## MOBILE
+
+<img width="287" height="483" alt="Capturar" src="https://github.com/user-attachments/assets/3dd84323-ee5f-4439-9181-baa06a06313c" />
+
 ## 🗂️Estrutura do projeto
 
 <img width="283" height="584" alt="CODIGOS" src="https://github.com/user-attachments/assets/5708f539-a926-4749-8582-f4b2386f9612" />
