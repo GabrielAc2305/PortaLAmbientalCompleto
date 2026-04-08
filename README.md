@@ -19,31 +19,31 @@ Permitir interação entre usuários e o sistema
 ## ⚙️ Funcionalidades
 
 
--🔐 Sistema de login e cadastro de usuários
+- 🔐 Sistema de login e cadastro de usuários
 
--🌍 Visualização de conteúdos ambientais
+- 🌍 Visualização de conteúdos ambientais
 
--📄 Acesso a informações e serviços
+- 📄 Acesso a informações e serviços
 
--📊 Organização de dados ambientais
+- 📊 Organização de dados ambientais
 
--📩 Possibilidade de contato ou envio de informações
+- 📩 Possibilidade de contato ou envio de informações
 
--📚 Área educativa sobre meio ambiente
+- 📚 Área educativa sobre meio ambiente
 
 ## 🖥️ Tecnologias utilizadas
 
--PHP
+- PHP
 
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
--JavaScript
+- JavaScript
 
--MySQL (banco de dados)
+- MySQL (banco de dados)
 
--Servidor local (XAMPP/WAMP)
+- Servidor local (XAMPP/WAMP)
 
 ## 🌎inico:
 <img width="1366" height="590" alt="INICOPORTAL" src="https://github.com/user-attachments/assets/8f8f9929-f201-4e1d-bedd-0a2ecd9c258e" />
@@ -87,4 +87,6 @@ Permitir interação entre usuários e o sistema
 
 <img width="283" height="584" alt="CODIGOS" src="https://github.com/user-attachments/assets/5708f539-a926-4749-8582-f4b2386f9612" />
 
-## AUTOR:GABRIEL ACCADROLLI FARIAS.
+## 🖥️DESENVOLVEDOR
+- GABRIEL ACCADROLLI FARIAS.
+- PROJETO REALIZADO EM 2026.
