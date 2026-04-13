@@ -53,7 +53,7 @@ Permitir interação entre usuários e o sistema
 ##  🌎QUEM SOMOS:
 <img width="1366" height="644" alt="QUEM SOMOS" src="https://github.com/user-attachments/assets/d6c535ed-6069-4559-90d4-d66046e78716" />
 
-##  CONTATO:
+##  🌎CONTATO:
 <img width="1366" height="634" alt="CONTATO" src="https://github.com/user-attachments/assets/b1043299-9f74-4d64-ab5d-f374de8aa0eb" />
 
 ## 🌎PERFIL:
