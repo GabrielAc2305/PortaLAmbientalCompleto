@@ -83,6 +83,10 @@ Permitir interação entre usuários e o sistema
 
 <img width="287" height="483" alt="Capturar" src="https://github.com/user-attachments/assets/3dd84323-ee5f-4439-9181-baa06a06313c" />
 
+## 📝 BANCO DE DADOS
+
+<img width="642" height="101" alt="BANCO (1)" src="https://github.com/user-attachments/assets/4157257a-3de7-49e5-99c3-238a3245cacc" />
+
 ## 🗂️Estrutura do projeto
 
 <img width="283" height="584" alt="CODIGOS" src="https://github.com/user-attachments/assets/5708f539-a926-4749-8582-f4b2386f9612" />
