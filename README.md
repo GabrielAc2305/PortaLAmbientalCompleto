@@ -89,7 +89,34 @@ Permitir interação entre usuários e o sistema
 
 ## 🗂️Estrutura do projeto
 
-<img width="283" height="584" alt="CODIGOS" src="https://github.com/user-attachments/assets/5708f539-a926-4749-8582-f4b2386f9612" />
+📁 ProjetoPortalAmbiental/
+├── 📁 admin/
+│   ├── 📁 admin.php
+│   ├── admin_usuarios.php
+│   ├── admin_criar_usuario.php
+│   ├── admin_editar_usuario.php
+│   ├── admin_excluir_usuario.php
+│   ├── admin_noticias.php
+│   └── admin_excluir_noticia.php
+├── 📁 img/
+├── index.php
+├── login.php
+├── cadastro.php
+├── dashboard.php
+├── perfil.php
+├── notica.php
+├── quem_somos.php
+├── contato.php
+├── nova_noticia.php
+├── oi.css
+├── header.php
+├── footer.php
+├── conexao.php
+├── criar_senha.php
+└── dump.sql
+└── minhas_noticias.php
+└── scripts.js
+└── verificar_login.php
 
 ## 🖥️DESENVOLVEDOR
 - GABRIEL ACCADROLLI FARIAS.
