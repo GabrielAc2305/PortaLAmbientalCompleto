@@ -90,32 +90,59 @@ Permitir interação entre usuários e o sistema
 ## 🗂️Estrutura do projeto
 
 📁 ProjetoPortalAmbiental/
+
 ├── 📁 admin/
+
 │   ├── 📁 admin.php
+
 │   ├── admin_usuarios.php
+
 │   ├── admin_criar_usuario.php
+
 │   ├── admin_editar_usuario.php
+
 │   ├── admin_excluir_usuario.php
+
 │   ├── admin_noticias.php
+
 │   └── admin_excluir_noticia.php
+
 ├── 📁 img/
+
 ├── index.php
+
 ├── login.php
+
 ├── cadastro.php
+
 ├── dashboard.php
+
 ├── perfil.php
+
 ├── notica.php
+
 ├── quem_somos.php
+
 ├── contato.php
+
 ├── nova_noticia.php
+
 ├── oi.css
+
 ├── header.php
+
 ├── footer.php
+
 ├── conexao.php
+
 ├── criar_senha.php
+
 └── dump.sql
+
 └── minhas_noticias.php
+
 └── scripts.js
+
 └── verificar_login.php
 
 ## 🖥️DESENVOLVEDOR
